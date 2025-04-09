@@ -53,15 +53,18 @@ npm run dev
 Access the app at: http://localhost:5173
 
 Screenshots 
-<img width="1440" alt="Screenshot 2025-04-09 at 10 43 08 PM" src="https://github.com/user-attachments/assets/e84c8e2c-5561-414f-845c-d00679eb9d0a" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 43 03 PM" src="https://github.com/user-attachments/assets/60ce2628-c6fc-4028-857b-c42d969d894b" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 43 00 PM" src="https://github.com/user-attachments/assets/2e6b7bb2-6057-41db-8b16-3ed23e7dc02f" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 42 55 PM" src="https://github.com/user-attachments/assets/7b117e06-326c-4a62-964f-1f9299d957af" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 42 52 PM" src="https://github.com/user-attachments/assets/320242ad-855a-425b-95fc-00571caa11df" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 42 46 PM" src="https://github.com/user-attachments/assets/a6b85778-17d8-48cf-8fb9-995dcaad3814" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 42 37 PM" src="https://github.com/user-attachments/assets/c8ff7621-a8e8-48a4-80fd-0ee6c57bfab1" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 42 29 PM" src="https://github.com/user-attachments/assets/8fcfc2b4-8e18-4f40-9eae-2c8170938517" />
-<img width="1440" alt="Screenshot 2025-04-09 at 10 41 19 PM" src="https://github.com/user-attachments/assets/66ff47de-5b57-4362-b84a-f7b475255664" />
+![image](https://github.com/user-attachments/assets/c7946669-15c2-4368-afbb-d5fcf9a61354)
+![image](https://github.com/user-attachments/assets/67ff5649-6639-4135-9845-f08651bb6aec)
+![image](https://github.com/user-attachments/assets/c5c13b8f-86b9-4f42-a41b-004249b1621f)
+![image](https://github.com/user-attachments/assets/bca6d112-cddc-49fa-a72e-11e75efc1b88)
+![image](https://github.com/user-attachments/assets/43d83b9b-4180-4ffd-ac28-bb6a5b4c7ac5)
+![image](https://github.com/user-attachments/assets/163358bf-9ef1-486c-b86c-165bb3574bf4)
+![image](https://github.com/user-attachments/assets/5a305627-de4f-4823-9097-f3c642c4c032)
+![image](https://github.com/user-attachments/assets/9cc4832e-a6da-4483-bea9-11af020f89a7)
+![image](https://github.com/user-attachments/assets/03f4da9f-51fd-4902-8513-e86681be2930)
+
+
+
 
 
 
