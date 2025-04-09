@@ -23,9 +23,9 @@ Features
 	•	Prevent issuing books to debt-heavy members (validation included).
 
 🔹 Return System
-	•	A separate route to return books.
-	•	Displays book and member details.
-	•	Allows return date and rent fee input.
+	1)	A separate route to return books.
+	2)	Displays book and member details.
+	3)	Allows return date and rent fee input.
 
 Tech Stack
 	•	Frontend: Vue.js 
