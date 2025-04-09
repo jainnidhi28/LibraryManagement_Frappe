@@ -7,6 +7,7 @@ A full-stack Library Management Web Application built with Django (Backend) and 
 Features
 
 🔹 Book Management
+
 	•	Add new books manually with details like title, author, ISBN, publisher, page count, and stock.
  
 	•	Import books from frappe.io public library API.
@@ -16,11 +17,13 @@ Features
 	•	Book list with search functionality.
 
 🔹 Member Management
+
 	•	Add and manage members with name, email, and outstanding debt tracking.
  
 	•	Edit and delete member information.
 
 🔹 Transactions (Issue & Return)
+
 	•	Issue books to members (only if their debt ≤ ₹500).
  
 	•	Return books with rent fee input.
@@ -30,11 +33,12 @@ Features
 	•	Prevent issuing books to debt-heavy members (validation included).
 
 🔹 Return System
-	1)	A separate route to return books.
+
+	•	A separate route to return books.
  
-	2)	Displays book and member details.
+	•	Displays book and member details.
  
-	3)	Allows return date and rent fee input.
+	•	Allows return date and rent fee input.
 
 Tech Stack
 	•	Frontend: Vue.js 
