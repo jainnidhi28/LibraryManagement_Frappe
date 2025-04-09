@@ -41,10 +41,15 @@ Features
 	•	Allows return date and rent fee input.
 
 Tech Stack
+
 	•	Frontend: Vue.js 
+ 
 	•	Backend: Django, Django REST Framework
+ 
 	•	Database: SQLite (dev)
+ 
 	•	CORS: Handled using django-cors-headers
+ 
 	•	External API: Frappe Public Library API for importing books
 
 
