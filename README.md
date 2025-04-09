@@ -57,16 +57,25 @@ Tech Stack
 
 Backend (Django)
 
+
 cd backend
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
+
 
 Frontend (Vue.js)
 
+
 cd frontend/library-frontend
+
 npm install
+
 npm run dev
+
 
 Access the app at: http://localhost:5173
 
